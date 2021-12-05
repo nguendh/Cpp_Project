@@ -1,0 +1,3 @@
+C:/Users/pc mine/CLionProjects/ProjectCPP/cmake-build-debug/CMakeFiles/ProjectCPP.dir
+C:/Users/pc mine/CLionProjects/ProjectCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc mine/CLionProjects/ProjectCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
