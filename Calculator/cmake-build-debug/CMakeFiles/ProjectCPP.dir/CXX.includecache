@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pc mine/CLionProjects/ProjectCPP/BigInt.cpp
+iostream
+-
+vector
+-
+BigInt.h
+C:/Users/pc mine/CLionProjects/ProjectCPP/BigInt.h
+
+C:/Users/pc mine/CLionProjects/ProjectCPP/BigInt.h
+ostream
+-
+vector
+-
+
+C:/Users/pc mine/CLionProjects/ProjectCPP/main.cpp
+iostream
+-
+BigInt.h
+C:/Users/pc mine/CLionProjects/ProjectCPP/BigInt.h
+
